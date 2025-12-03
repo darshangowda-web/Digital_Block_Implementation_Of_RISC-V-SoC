@@ -1,0 +1,11 @@
+counter/
+__pycache__/
+*.v
+.doit.db
+openroad.log
+.genus.*
+.innovus.*
+generatedInputs
+technology
+riscvCoreSyntaCore1
+
